@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5a71c02b1da1ad92b363fdbf",
+  "owner": "qtygwkgvm",
+  "repo": "page-329b444e5c689659588c6e76",
+  "title": "青云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "329b444e5c689659588c6e76",
+      "a": "青云梯",
+      "b": "",
+      "entity": "青云梯",
+      "brand": "青云梯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "58bc63b7674159e00c0a8077a6586602fa3dd29a7bcaa6bb88b56b9fdba2c1f5",
+      "content": {
+        "keyword1": "青云梯",
+        "keyword2": "",
+        "primary_entity": "青云梯",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青云梯提供高效VPN网络加速服务，支持机场订阅和客户端下载。",
+          "AI_DESCRIPTION": "青云梯提供高效VPN网络加速服务，支持机场订阅和客户端下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>\n    body {\n        font-family: 'Helvetica Neue', Arial, sans-serif;\n        background-color: #F8F5F0; /* 米白 */\n        color: #333333;\n        line-height: 1.6;\n        margin: 0;\n        padding: 0;\n    }\n    main {\n        max-width: 1000px;\n        margin: 0 auto;\n        padding: 20px;\n    }\n    h1 {\n        color: #228B22; /* 森林绿 */\n        font-size: 3em;\n        text-align: center;\n        margin-bottom: 20px;\n    }\n    h2 {\n        color: #228B22;\n        font-size: 2em;\n        margin: 30px 0 15px;\n    }\n    h3 {\n        color: #333333;\n        font-size: 1.5em;\n        margin: 20px 0 10px;\n    }\n    p {\n        font-size: 1.1em;\n        margin-bottom: 15px;\n    }\n    .staggered {\n        display: flex;\n        flex-wrap: wrap;\n        gap: 20px;\n        margin: 30px 0;\n    }\n    .staggered > div {\n        flex: 1 1 45%;\n        background-color: #ffffff;\n        padding: 20px;\n        border-radius: 8px;\n        box-shadow: 0 2px 5px rgba(0,0,0,0.1);\n    }\n    .left {\n        margin-right: 5%;\n    }\n    .right {\n        margin-left: 5%;\n    }\n    @media (max-width: 768px) {\n        .staggered > div {\n            flex: 1 1 100%;\n        }\n        .left, .right {\n            margin: 0 0 20px 0;\n        }\n    }\n    details {\n        margin: 15px 0;\n        border: 1px solid #ddd;\n        border-radius: 4px;\n        padding: 10px;\n    }\n    summary {\n        font-weight: bold;\n        cursor: pointer;\n        color: #228B22;\n        font-size: 1.2em;\n    }\n    @media (max-width: 600px) {\n        h1 { font-size: 2.5em; }\n        h2 { font-size: 1.8em; }\n    }\n</style>\n<main>\n    <h1>青云梯</h1>\n    <section class=\"intro\">\n        <h2>品牌简介</h2>\n        <p>青云梯致力于提供优质的网络加速服务，帮助用户获得更快的上网体验。</p>\n    </section>\n    <section class=\"scenarios staggered\">\n        <h2>使用场景</h2>\n        <div class=\"left\">\n            <h3>日常上网</h3>\n            <p>轻松浏览网页，享受流畅的网络环境。</p>\n        </div>\n        <div class=\"right\">\n            <h3>在线会议</h3>\n            <p>稳定连接，支持多人视频通话。</p>\n        </div>\n        <div class=\"left\">\n            <h3>远程工作</h3>\n            <p>高效完成远程任务。</p>\n        </div>\n    </section>\n    <section class=\"config staggered\">\n        <h2>配置流程</h2>\n        <div class=\"left\">\n            <h3>步骤一：选择套餐</h3>\n            <p>根据您的需求选择适合的VPN套餐。</p>\n        </div>\n        <div class=\"right\">\n            <h3>步骤二：下载客户端</h3>\n            <p>从官方渠道获取青云梯客户端。</p>\n        </div>\n        <div class=\"left\">\n            <h3>步骤三：安装配置</h3>\n            <p>安装后登录您的账号信息。</p>\n        </div>\n        <div class=\"right\">\n            <h3>步骤四：连接节点</h3>\n            <p>选择服务器并启动加速模式。</p>\n        </div>\n        <div class=\"left\">\n            <h3>步骤五：享受加速</h3>\n            <p>开始使用网络加速功能。</p>\n        </div>\n    </section>\n    <section class=\"faq\">\n        <h2>常见问题</h2>\n        <details>\n            <summary>什么是青云梯？</summary>\n            <p>青云梯是一个VPN网络加速品牌，提供稳定高效的连接服务。</p>\n        </details>\n        <details>\n            <summary>如何使用青云梯？</summary>\n            <p>按照配置流程进行下载、安装和连接即可。</p>\n        </details>\n        <details>\n            <summary>支持机场订阅吗？</summary>\n            <p>是的，青云梯支持多种机场订阅方式。</p>\n        </details>\n        <details>\n            <summary>客户端可以下载吗？</summary>\n            <p>用户可以访问官网获取客户端。</p>\n        </details>\n        <details>\n            <summary>如何选择套餐？</summary>\n            <p>根据使用需求选择适合的套餐计划。</p>\n        </details>\n    </section>\n    <section>\n        {{PLANS_HTML}}\n    </section>\n    <section>\n        {{CLIENTS_HTML}}\n    </section>\n</main>",
+          "hash": "533adcb47ff818c3e6ecd052911fe0b2f642cdadda788e972f896b8e25a9978a",
+          "seo": {
+            "title": "青云梯 - 稳定VPN加速器，机场订阅与客户端下载",
+            "keywords": "青云梯,VPN,机场,加速器,客户端下载,官网下载",
+            "description": "青云梯提供高效VPN网络加速服务，支持机场订阅和客户端下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nyvjlnn.cn",
+    "host": "zh.nyvjlnn.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "nyvjlnn.cn",
+      "url": "https://nyvjlnn.cn/",
+      "label": "东方网络",
+      "apex": "nyvjlnn.cn",
+      "kind": null,
+      "identity": "dsqtbfarhge/page-6271f6bae41ecd9672378f40"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2a95dbdd9fd799051259a88e4c01204170c538aa307b694ade0085b00602e68f",
+    "sitemap.xml": "0134aeea0721b646fa9ffd2e462e1717af105f41f836242f51c607fd93f3da3f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "882d2c7a681ac465640b0fd5ac78dae0e5f146bdbec129a4afb25cfa394aa93a",
+    "robots.txt": "c9ca8205d5bde2bb6949af47b157cd72e4aa61a8867f03d57e74c967642f8f63",
+    "b12703a3625627fb0b15c514c4cc696f.txt": "4a63bdd80b88a6ceae1ce521b27ecc5d074a2a05f7f49c2903882ad55e7ed5df"
+  },
+  "revision": "f0579ffabed7e63e49cf07296d4fff22516e8f625f08d9b9beafd3d8ce53c22b"
+}
